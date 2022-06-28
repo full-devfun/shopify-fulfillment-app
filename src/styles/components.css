@@ -1,0 +1,20 @@
+.Polaris-IndexTable__TableCell--first + .Polaris-IndexTable__TableCell,
+.Polaris-IndexTable__TableCell--first {
+  position: inherit;
+}
+.Polaris-FooterHelp__Icon {
+  display: none;
+}
+.Polaris-FooterHelp {
+  margin: 0;
+}
+.hover-box {
+  border-radius: 2px;
+  background-color: #47c1bf;
+  padding: 0 10px 10px;
+  max-width: 200px;
+}
+.link-primary {
+  color: #2c6ecb;
+  text-decoration: none;
+}
